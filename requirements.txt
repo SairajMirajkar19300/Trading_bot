@@ -1,0 +1,5 @@
+ccxt
+pandas
+ta
+oandapyV20
+python-dotenv
